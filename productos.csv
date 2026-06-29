@@ -1,0 +1,31 @@
+product_id,product_name,category,price
+PR01,Auriculares Inalámbricos,Electrónica,49.99
+PR02,Altavoz Bluetooth Inteligente,Electrónica,35.5
+PR03,"Smart TV 43"" UHD",Electrónica,299.0
+PR04,Cargador Solar Portátil,Electrónica,24.99
+PR05,Reloj Inteligente (Smartwatch),Electrónica,89.95
+PR06,Cafetera de Goteo,Hogar,39.99
+PR07,Juego de Sartenes (3 piezas),Hogar,45.0
+PR08,Lámpara de Escritorio LED,Hogar,19.99
+PR09,Aspiradora de Mano,Hogar,59.9
+PR10,Batidora de Vaso,Hogar,34.95
+PR11,Esterilla de Yoga,Deportes,15.99
+PR12,Mancuernas Ajustables (Par),Deportes,79.99
+PR13,Mochila de Senderismo 40L,Deportes,42.5
+PR14,Bicicleta Estática,Deportes,185.0
+PR15,Botella de Agua Térmica,Deportes,12.99
+PR16,Novela de Ciencia Ficción,Libros,18.5
+PR17,Manual de Programación Python,Libros,32.0
+PR18,Biografía Histórica,Libros,22.9
+PR19,Libro de Cocina Saludable,Libros,15.0
+PR20,Cómic / Novela Gráfica,Libros,19.95
+PR21,Disco Duro Externo 2TB,Informática,69.99
+PR22,Ratón Ergonómico,Informática,25.0
+PR23,Teclado Mecánico RGB,Informática,74.99
+PR24,"Monitor 27"" Full HD",Informática,159.0
+PR25,Memoria USB 128GB,Informática,14.25
+PR26,Router Wi-Fi 6,Informática,89.9
+PR27,Hub USB-C Multipuerto,Informática,21.5
+PR28,Soporte para Portátil,Informática,18.0
+PR29,Webcam 1080p Pro,Informática,45.99
+PR30,Tarjeta de Red Antena Wi-Fi,Informática,12.5
